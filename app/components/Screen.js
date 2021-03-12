@@ -11,7 +11,6 @@ const styles = StyleSheet.create({
   screen: {
     height: "100%",
     width: "100%",
-    alignItems: "center",
     justifyContent: "flex-end",
     backgroundColor: colors.black,
     paddingTop: Constants.statusBarHeight,
