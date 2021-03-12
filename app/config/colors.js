@@ -19,4 +19,6 @@ export default {
   greyDark: "#5c5f68",
   //White
   white: "#fffdfd",
+  //Transparent
+  transparent: "transparent",
 };
